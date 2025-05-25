@@ -44,12 +44,8 @@ My dream role? Something where I can use all my engineering skills on research p
 
 Always up for discussions about data engineering challenges, interesting research problems, or just sharing what we're learning. Especially if you're a student figuring out your path - happy to share my (admittedly unconventional) experience!
 
-[LinkedIn](your-linkedin) | [Email](if-you-want)
-
+[LinkedIn]](https://www.linkedin.com/in/daniel-m-hill/)
 ---
 *When I'm not coding or studying, you'll find me cooking something ambitious (or eating it) or following way too many sports simultaneously* ⚽🏏🏈🎾🏀
 
-<!---
-danielmh111/danielmh111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
